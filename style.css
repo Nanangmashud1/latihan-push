@@ -1,0 +1,23 @@
+
+
+.link2 li a{
+    color: red;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-repeat: no-repeat;
+
+}
+.link3 li a{
+    color: rgb(98, 0, 255);
+    font-weight: bold;
+    font-style: italic;
+}
+    .img{
+        background-color: aqua;
+        text-align: center;
+        
+    }
+img{
+    border-radius: 500%;
+}
+    
